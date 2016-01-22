@@ -39,6 +39,9 @@ public class TaskListScreen extends AppCompatActivity {
         System.out.println(v == null);
         System.out.println(v.getClass().getName());
         */
+
+
+
         createLayoutDynamically(4);
     }
 
