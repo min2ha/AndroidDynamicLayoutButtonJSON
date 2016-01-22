@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TDDJSONDBTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_task_list_screen">TaskListScreen</string>
+    <string name="title_activity_question_list_screen">QuestionListScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="register_title">Register</string>
+    <string name="main_title">CrowdLab</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="pwd">Password</string>
+    <string name="btnRegister">Register</string>
+    <string name="title_activity_main_report">MainReportActivity</string>
+
+    <string name="child_layout1">Layout1</string>
+    <string name="child_layout2">Layout2</string>
+
+
+</resources>
